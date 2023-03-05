@@ -1,0 +1,59 @@
+{
+    "version": "20131101",
+    "logo": "http://image.aladin.co.kr/img/header/2011/aladin_logo_new.gif",
+    "title": "알라딘 상품정보 - 삼미 슈퍼스타즈의 마지막 팬클럽",
+    "link": "https:\/\/www.aladin.co.kr\/shop\/wproduct.aspx?ItemId=427740&amp;partner=openAPI",
+    "pubDate": "Sun, 05 Mar 2023 02:27:43 GMT",
+    "totalResults": 1,
+    "startIndex": 1,
+    "itemsPerPage": 1,
+    "query": "isbn=8984311049",
+    "searchCategoryId": 0,
+    "searchCategoryName": "",
+    "item": [{
+        "title": "삼미 슈퍼스타즈의 마지막 팬클럽",
+        "link": "http:\/\/www.aladin.co.kr\/shop\/wproduct.aspx?ItemId=427740&amp;partner=openAPI&amp;start=api",
+        "author": "박민규 (지은이)",
+        "pubDate": "2003-08-12",
+        "description": "'삼미 슈퍼스타즈', 프로야구 원년부터 85년 해체되까지 우리 곁에 잠시 머물렀던 팀의 그야말로 '슈퍼'한 기록이다. 야구에 조금이라도 관심이 있는 사람이라면 저것이 '짜고 쳐도' 어려운 실로 놀라운 위업임을 금방 알 수 있을 것이다. 그런데, 다른 이들은 남부끄럽다며 기억하기도 두려워하는 '삼미'를 소설의 소재로 삼고, 심지어 상까지 거머쥔 작가가 있다.",
+        "isbn": "8984311049",
+        "isbn13": "9788984311046",
+        "itemId": 427740,
+        "priceSales": 9900,
+        "priceStandard": 11000,
+        "mallType": "BOOK",
+        "stockStatus": "구판절판",
+        "mileage": 550,
+        "cover": "https:\/\/image.aladin.co.kr\/product\/42\/77\/coversum\/8984311049_2.jpg",
+        "categoryId": 50993,
+        "categoryName": "국내도서>소설\/시\/희곡>한국소설>2000년대 이후 한국소설",
+        "publisher": "한겨레출판",
+        "salesPoint": 14938,
+        "adult": false,
+        "fixedPrice": true,
+        "customerReviewRank": 9,
+        "subInfo": {
+            "ebookList": [],
+            "usedList": {
+                "aladinUsed": {
+                    "itemCount": 1,
+                    "minPrice": 4200,
+                    "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=427740&amp;TabType=2&amp;partner=openAPI"
+                },
+                "userUsed": {
+                    "itemCount": 445,
+                    "minPrice": 290,
+                    "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=427740&amp;TabType=1&amp;partner=openAPI"
+                },
+                "spaceUsed": {
+                    "itemCount": 15,
+                    "minPrice": 3600,
+                    "link": "https://www.aladin.co.kr/shop/UsedShop/wuseditemall.aspx?ItemId=427740&amp;TabType=3&amp;partner=openAPI"
+                }
+            },
+            "subTitle": "",
+            "originalTitle": "",
+            "itemPage": 303
+        }
+    }]
+}
